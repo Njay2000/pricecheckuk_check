@@ -1,0 +1,4 @@
+[2024-08-02 10:29:36,095][WDM][INFO] - ====== WebDriver manager ======
+[2024-08-02 10:29:37,177][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-02 10:29:37,217][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-02 10:29:37,250][WDM][INFO] - Driver [C:\Users\naren\.wdm\drivers\chromedriver\win64\127.0.6533.88\chromedriver-win32/chromedriver.exe] found in cache

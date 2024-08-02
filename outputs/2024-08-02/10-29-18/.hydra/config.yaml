@@ -1,0 +1,3 @@
+scraping:
+  url: https://pricecheck.uk.com/beauty
+  output_file: product_details.csv
