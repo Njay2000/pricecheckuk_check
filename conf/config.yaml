@@ -4,6 +4,8 @@ defaults:
 
 scraping:
   #url: "https://pricecheck.uk.com/beauty"
-  url: "https://pricecheck.uk.com/brands/2025"
+  #url: "https://pricecheck.uk.com/brands/2025"
+  url: https://pricecheck.uk.com/new-lines
   output_file: "product_details.csv"
   wait_time: 10  # Example value in seconds
+ 

@@ -1,0 +1,4 @@
+scraping:
+  url: https://pricecheck.uk.com/new-lines
+  output_file: product_details.csv
+  wait_time: 10
