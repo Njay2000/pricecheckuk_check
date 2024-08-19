@@ -1,0 +1,12 @@
+[2024-08-19 14:25:50,263][WDM][INFO] - ====== WebDriver manager ======
+[2024-08-19 14:25:51,456][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-19 14:25:51,603][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-19 14:25:51,732][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-19 14:25:52,024][WDM][INFO] - WebDriver version 127.0.6533.119 selected
+[2024-08-19 14:25:52,028][WDM][INFO] - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+[2024-08-19 14:25:52,028][WDM][INFO] - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+[2024-08-19 14:25:52,122][WDM][INFO] - Driver downloading response is 200
+[2024-08-19 14:25:52,385][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-19 14:25:52,627][WDM][INFO] - Driver has been saved in cache [C:\Users\naren\.wdm\drivers\chromedriver\win64\127.0.6533.119]
+[2024-08-19 14:26:18,149][urllib3.connectionpool][WARNING] - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026F9FDE9A60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/45324b9d48e937684c4a2fda571464d0
+[2024-08-19 14:26:22,218][urllib3.connectionpool][WARNING] - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026F9FDE9910>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/45324b9d48e937684c4a2fda571464d0

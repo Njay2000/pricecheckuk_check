@@ -1,0 +1,3 @@
+[2024-08-07 23:06:46,583][WDM][INFO] - ====== WebDriver manager ======
+[2024-08-07 23:06:47,317][WDM][INFO] - There is no [win64] chromedriver "latest" for browser google-chrome "127.0.6533.89" in cache
+[2024-08-07 23:06:47,318][WDM][INFO] - Get LATEST chromedriver version for google-chrome

@@ -1,0 +1,11 @@
+scraping:
+  urls:
+  - https://pricecheck.uk.com/new-lines
+  wait_time: 10
+  output_file: products.csv
+database:
+  host: aws-simplified.cn28ssqgmct9.eu-west-1.rds.amazonaws.com
+  username: admin
+  password: Naren#3009
+  database_name: scrape
+  table_name: project

@@ -1,0 +1,11 @@
+[2024-08-14 18:34:53,769][WDM][INFO] - ====== WebDriver manager ======
+[2024-08-14 18:34:54,441][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-14 18:34:54,621][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-14 18:34:54,724][WDM][INFO] - There is no [win64] chromedriver "127.0.6533.119" for browser google-chrome "127.0.6533" in cache
+[2024-08-14 18:34:54,725][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-14 18:34:55,269][WDM][INFO] - WebDriver version 127.0.6533.119 selected
+[2024-08-14 18:34:55,269][WDM][INFO] - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+[2024-08-14 18:34:55,269][WDM][INFO] - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/127.0.6533.119/win32/chromedriver-win32.zip
+[2024-08-14 18:34:55,384][WDM][INFO] - Driver downloading response is 200
+[2024-08-14 18:34:59,058][WDM][INFO] - Get LATEST chromedriver version for google-chrome
+[2024-08-14 18:34:59,255][WDM][INFO] - Driver has been saved in cache [C:\Users\naren\.wdm\drivers\chromedriver\win64\127.0.6533.119]
